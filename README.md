@@ -1,0 +1,1 @@
+A program to read the data from this file and display a temperature bar chart.
